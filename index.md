@@ -1,8 +1,8 @@
 ---
 theme: minimal
 layout: default
-title: ƒ|[ƒgƒtƒHƒŠƒIƒTƒCƒg
+title: ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒªã‚ªã‚µã‚¤ãƒˆ
 ---
-# ‚ ‚ ‚ 
+# ã‚ã‚ã‚
 - hoge
 - foo
